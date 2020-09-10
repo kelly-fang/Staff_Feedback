@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StaffFeedback</string>
+    <string name="name">\t\tName : KELLY WOOI MEI FANG \n \t\tPosition: Cashier \n \t\tExperience: 10 years </string>
+    <string name="sf">STAFF INFO AND FEEDBACK</string>
+    <string name="enter_comments">Enter yours comments \n (At most 20 words)</string>
+    <string name="name_kwmf">\t\tName: KELLY WOOI MEI FANG \n \t\tPosition: Cashier \n \t\tExperience: 10 years </string>
+    <string name="name_hmh">\t\tName: HEW MUN HON \n \t\tPosition: Shop Manager \n \t\tExperience: 10 years</string>
+    <string name="name_sqj">\t\tName: SIN QI JIE \n \t\tPosition: IT Technician \n \t\tExperience: 10 years</string>
+    <string name="name_lsm">\t\tName: LOONG SEE MUN \n \t\tPosition: Manicurist \n \t\tExperience: 10 years</string>
+    <string name="name_cjx">\t\tName: CHAN JIANXUN \n \t\tPosition: Hairdresser \n \t\tExperience: 10 years</string>
+    <string name="submit_fb">SUBMIT FEEDBACK</string>
+    <string name="rating_scale">~~~RATING SCALE~~~</string>
+</resources>
